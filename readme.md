@@ -1,5 +1,6 @@
 # Amigo secreto
 Una app web sencilla que permite organizar sorteos de "Amigo secreto": ingresa los nombres de los participantes y con un clic se asigna aleatoriamente un nombre. 
+
 Este juego está disponible en línea en : https://rociobelen-21.github.io/challenge_amigo_secreto-/ 
 
 ¿Cómo usarlo?
